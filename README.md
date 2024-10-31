@@ -14,3 +14,7 @@ when and how to change the difficulty is a complex endeavor especially in MMORPG
 An adaptive difficulty system can prove useful for a better game experience in an
 MMORPG but has to be properly balanced with other factors like community.
 
+## Boss Room
+
+https://unity.com/de/demos/small-scale-coop-sample
+
